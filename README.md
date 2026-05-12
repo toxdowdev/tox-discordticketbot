@@ -23,9 +23,16 @@
 5.  `start.bat` dosyasına çift tıklayarak sistemi aktif edin.
 
  # 📸 Preview / Önizleme
- <p align="center">
-  <img src="https://imgur.com/a/Ek4BYFc" width="45%" alt="Ticket Panel" />
+<p align="center">
+  <img src="https://i.imgur.com/BNIm4QL.png" width="45%" alt="Ticket Panel" />
 </p>
+
+<p align="center">
+  <img src="https://i.imgur.com/MNuLcIB.png" width="45%" alt="Ticket Channel" />
+  <img src="https://i.imgur.com/C8uGxyn.png" width="45%" alt="Transcript Log" />
+</p>
+
+> **Note:** The interface is designed with a minimalist and premium aesthetic, tailored by Toxdow.
 
 ---
 
