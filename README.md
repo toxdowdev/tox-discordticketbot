@@ -25,6 +25,7 @@
  # 📸 Preview / Önizleme
 <p align="center">
   <img src="https://i.imgur.com/BNIm4QL.png" width="45%" alt="Ticket Panel" />
+   <img src="https://i.imgur.com/8jvZQLQ.png" width="45%" alt="Ticket Panel" />
 </p>
 
 <p align="center">
