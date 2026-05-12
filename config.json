@@ -1,0 +1,10 @@
+{
+  "token": "BOT_TOKEN_BURAYA",
+  "clientId": "BOT_ID_BURAYA",
+  "guildId": "SUNUCU_ID_BURAYA",
+  "ticketCategory": "TICKET_KANALLARININ_ACILACAGI_KATEGORI_ID",
+  "staffRoleId": "TALEPLERE_BAKACAK_YETKILI_ROL_ID",
+  "logChannelId": "TICKET_LOGLARININ_GIDECEGI_KANAL_ID",
+  "embedColor": "#0b0b0b",
+  "footerText": "Tox Studio | Developed by Toxdow"
+}
