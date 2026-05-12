@@ -22,6 +22,11 @@
 4.  `node deploy-commands.js` yazarak Slash komutlarını tanımlayın.
 5.  `start.bat` dosyasına çift tıklayarak sistemi aktif edin.
 
+ # 📸 Preview / Önizleme
+ <p align="center">
+  <img src="https://imgur.com/a/Ek4BYFc" width="45%" alt="Ticket Panel" />
+</p>
+
 ---
 
 ## 🇺🇸 English Overview
